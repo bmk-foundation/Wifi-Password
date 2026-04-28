@@ -1,4 +1,4 @@
-# 🛡️ W8Team WiFi Hacker - Advanced Auto System
+# 🛡️  WiFi Hacker - Advanced Auto System
 
 <div align="center">
 
@@ -198,12 +198,12 @@ The tool will display a beautiful menu interface with Smart AI capabilities:
 ```
 ╔═══════════════════ LIVE STATISTICS ═══════════════════╗
 ║ TIME: 2024-12-19 15:30:45                            ║
-║ AUTHOR: W8Team/W8SOJIB                               ║
-║ TELEGRAM: https://t.me/W8SOJIB                       ║
+║ AUTHOR: Masud/Kurigram                              ║
+║ TELEGRAM: t.me/BMKF_Admin_Masud                      ║
 ╚═══════════════════════════════════════════════════════╝
 
 ╔══════════════════════════════════════════════════════════════╗
-║                  🛡️  W8Team WiFi Hacker                     ║
+║                  🛡️ Wifi Password Hacker                     ║
 ║                    Advanced Auto System                      ║
 ║                     💚 This Tool Free 💚                     ║
 ╠══════════════════════════════════════════════════════════════╣
@@ -525,6 +525,6 @@ This project is licensed under the Educational License - see the LICENSE file fo
 
 ---
 
-**Made with ❤️ by W8Team**
+**Made with ❤️ by Masud**
 
-📱 [Telegram](https://t.me/W8SOJIB) • ⭐ Star this repo • 🍴 Fork
+📱 [Telegram](t.me/BMKF_Admin_Masud) • ⭐ Star this repo • 🍴 Fork
